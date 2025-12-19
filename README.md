@@ -8,6 +8,6 @@ I intend to create a Wordpress site for easy content management by people who ar
 
 Navigation links:
 
-- [All LSS Breaks](./breaks.md)
-- [Parts by Instrument](./parts-by-instrument.md)
+- [All LSS Breaks](resources/breaks.md)
+- [Parts by Instrument](resources/parts-by-instrument.md)
 
