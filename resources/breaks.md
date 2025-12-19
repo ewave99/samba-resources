@@ -33,11 +33,11 @@
 - Diamond (end of dance breaks)
     - [Banana Drum](https://bananadrum.net/?a2=4-4.140.6.1-4.16.122k_A7pOh_zNnJiRaSi9mDUZea.222k_A7pOh_zNnJiRaSi9mDUZea.39100000091000000910056ooauauauauauauauau8o8o8r56.5sZbIHwBPkues7FX_46bc52ta2houeDsa~AfUO.7BeggROGtU1OCM~mDzZ5vyheN.822k_A7pOh_zNnDYw9Y1_LdmXjl.922k_A7pOh_zNnDYw9Y1_LdmXjl)
 - 3
-    - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.12pDwx_7RDT3n5ybcF-1avqc1He.22tsW~4OnGYU9wMPE-57x0hOdziAGGY.3auo8o000rr03ro0auauauauauauauau-1avqc1He.5fzqHpcT65e7XVsGYOV83Zb49-1avqc1He.71hbEcEoKHOpB5Zci.8esJsTU1Ht0ST7gnzo.91hbEcEoKHC2_QzYt)
+    - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.12pDwx_7RDT3n5ybcF-1avqc1He.22tsW~4OnGYU9wMPE-57x0hOdziAGGY.3auo8o000rr03ro0auauauauauauauau-1avqc1He.5fzqHpcT65e7XVsGYOV83Zb49-1avqc1He.71hbEcEoKVGh5GiSH.8esJsTU1Ht0ST7gnzo.91hbEcEoKHC456fbU)
 - 3 with fist
     - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.12pDwx_7RDT3n5ybcF-1avqc1He.22tsW~4OnGYU9wMPE-57x0hOdziAGGY.3auo8o000rr03ro0auauauauauauauau-1avqc1He.5fzqHpcT65e7XVsGYOV83Zb49-1avqc1He.71hbEcEoKFT56OMQw.8esJsTU1Ht0Rvr1VUy.91hbEcEoKFT56OHZy)
 - 3 with finger
-    - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.1lCzALaqsNq50lCQb7.237hCEgME9RSg9t8~B-20BQ.3auo8o00080008000auauauauauauauau.564RqYS0~DNP6L35Ua1sKp1sQz.71hbEcEoKHOpB5Zci.8esJsTU1Ht0ST7gnzo.91hbEcEoKHC2_QzYt)
+    - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.1lCzALaqsNq50lCQb7.237hCEgME9RSg9t8~B-20BQ.3auo8o00080008000auauauauauauauau.564RqYS0~DNP6L35Ua1sKp1sQz.71hbEcEoKVGh5GiSH.8esJsTU1Ht0ST7gnzo.91hbEcEoKHC456fbU)
 - 2 (Exaltação)
 - Fish (Mocidade 2024)
     - [Banana Drum](https://bananadrum.net/?a2=4-4.140.11.1-4.16.02BK7LxpTZzf1n8EG4oxfyicrcFbTl3UFn4J5WiYBCpW3x~Y.150yjhBGk50viNN9OQSGfHpYz~8jz9dRAyV2t6BonPX5uBAa.250yjhBA1xr2IRUBO6KJR_SZBmvWHjOKs~I_yvOQcI9WVr7U.3avo8o0000oo00oo00oo00oo00oo00ot7o0o0o000avavavavavavd7o057o057o00000000000000057avavavav.5u7mG_d6CqMHXBW2_WXLJd5_ULsKC0PC7JGKlm3_lqKWoaMP4q2eOYtqBbZXBMZqORDYt.60.7exKBp7Ew6z4_FgfSqDYUx05RcFKg2RZTIGcNvVnRPE0jX.8exKBp7Ew6z4_FgfSqDYUx05RcFKg2RZTIGcNvVlPWvxOg.92Bh89VM87KTsyj5d1PPOmj5NgkjdsEz1cfRVarNBR8GUt2o)
