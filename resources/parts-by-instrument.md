@@ -35,6 +35,8 @@
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.313131P1P1Por56-1mpOYjYBu7nz)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3o9318r56)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.3auo0auor56)
+- [Banana Drum](https://bananadrum.net/?a2=4-4.110.2.1-4.16.3131313131P1P1Por56-1mpOYjYBu7nz)
+  - Reference: [Paraiso](https://youtube.com/shorts/ARVXjrgnBa4?si=0U0yb6ej6r9NurV_)
 
 ### Others
 
