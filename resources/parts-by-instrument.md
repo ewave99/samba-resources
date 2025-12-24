@@ -37,20 +37,38 @@
 
 ### Chamadas
 
+#### LSS
+
+- Call Zero
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3uuuuuuor56-Ckm)
+	- Reference: [YouTube](https://youtu.be/x_0OGT0PVOc)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.38o8o8r56)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3838o8r56)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3uuuuuuor56-Ckm)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3erN8r56-3v1)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.38oee8oee830o8r56)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.38r568r56)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.380o08r56)
+- Call 2
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3838o8r56)
+	- Reference: [YouTube](https://youtu.be/x_0OGT0PVOc?t=19)
+- Call 3
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3erN8r56-3v1)
+	- Reference: [YouTube](https://youtu.be/x_0OGT0PVOc?t=27)
+- Call 4
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.380o08r56)
+	- Reference: [YouTube](https://youtu.be/x_0OGT0PVOc?t=35)
+- Via Via / Vulcan
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.38oee8oee830o8r56)
+	- Reference: [YouTube](https://youtu.be/x_0OGT0PVOc?t=47)
+- Cash Money
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.38r568r56)
+	- Reference: [YouTube](https://youtu.be/GLlu4kaymDs?t=55)
+
+#### Other
+
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.31P1P1Por56-2lGA2KTQSi)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3eooeoor56-m9n_h0)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.313131P1P1Por56-1mpOYjYBu7nz)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.1.1-4.16.3o9318r56)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.3auo0auor56)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.110.2.1-4.16.3131313131P1P1Por56-1mpOYjYBu7nz)
-  - Reference: [Bateria Super Som](https://youtube.com/shorts/ARVXjrgnBa4?si=0U0yb6ej6r9NurV_)
+	- Reference: [Bateria Super Som](https://youtube.com/shorts/ARVXjrgnBa4?si=0U0yb6ej6r9NurV_)
+
+Resource: [LSS Bateria Weebly](https://lssbateria.weebly.com/RepCallsIn.html)
 
 ### Others
 
