@@ -61,12 +61,24 @@
 
 ### Subidas
 
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.22CsR7spz-6eI5.82ctITCkRI.91K~~keuI)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7OgidVjB_O1s4i7-6eI5.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2dxPBwhK_b7z7NYa-6kyE.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.21UkG7UlfCcwERDbZ-8BuD42d~me~u.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7qfvmYS3SjMtTaA-433xTgZ.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.3.1-4.16.2Ls_33NIE_ML-7f5CAvXE.85EpEIfj53zlty.94sMIOMrJTLH2)
+- 4
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.22CsR7spz-6eI5.82ctITCkRI.91K~~keuI)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_4.html)
+- LSS No. 1
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7OgidVjB_O1s4i7-6eI5.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_LSS1.html)
+- 8
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2dxPBwhK_b7z7NYa-6kyE.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_8.html)
+- LSS No. 2
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.21UkG7UlfCcwERDbZ-8BuD42d~me~u.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_8.html)
+- Left to Right
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7qfvmYS3SjMtTaA-433xTgZ.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_LeftRight.html)
+- Chinny chin chin
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.3.1-4.16.2Ls_33NIE_ML-7f5CAvXE.85EpEIfj53zlty.94sMIOMrJTLH2)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_ChinnyChinChin.html)  
 
 ### Song lines
 
@@ -74,9 +86,13 @@
 
 - Telecoteco
 	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2gg8~rQ0m91iW3134G.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+	- Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamPart2_Telecoteco.html)
 - Fingers on shoulder
 	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.14Qc9euNX6hABbdraK-2Zfe.24XA8fcn6_h_o3BahI-2Zfe.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+	- Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamPart2_Shoulder.html)
 - Vietnam
 	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.6.1-4.16.18mmW3azEPL5rpnv2QaOd43zA.222l0ofnTWhT9IpNXKiXhRs82d9.81v7Cj6hQGtoXJgLIWkGT5kaU94.91b9Z4QnA56EfAzmHoLXY7n344)
+	- Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamPart2_Vietnam.html)
 - Watch your back
 	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.5.1-4.16.1cRJTMwY5jfzCJwyu.2702v4UzaqNKKQSzYvo.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+	- Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamPart2_WatchYourBack.html)
