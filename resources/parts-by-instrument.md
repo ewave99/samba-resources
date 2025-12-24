@@ -64,12 +64,12 @@
 - 4
   - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.22CsR7spz-6eI5.82ctITCkRI.91K~~keuI)
   - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_4.html)
-- LSS No. 1
-  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7OgidVjB_O1s4i7-6eI5.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
-  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_LSS1.html)
 - 8
   - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2dxPBwhK_b7z7NYa-6kyE.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
   - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_8.html)
+- LSS No. 1
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.2h7OgidVjB_O1s4i7-6eI5.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
+  - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_LSS1.html)
 - LSS No. 2
   - [Banana Drum](https://bananadrum.net/?a2=4-4.140.4.1-4.16.21UkG7UlfCcwERDbZ-8BuD42d~me~u.8esJsTU1Ht0ST7gnzo.9bqEFNHuzWuIXmkRo)
   - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/TamSubida_8.html)
