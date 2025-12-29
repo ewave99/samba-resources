@@ -50,7 +50,10 @@
 - 3rd Surdo carry-through
     - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.14hTfIAWyw.24hTfIAWyw.3auauauauauauauau.51u9Uo~IKMDV3u.71XsSFii7.82ctITCkRI.91K~~keuI)
 - V break
-	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.17.1-4.16.11MazNJCySKe7PDp7XClz6Set4dpLopxzfBlIwP18P1Znaa3LAXkZlE2yyxKfAe4Mu2a1DKTW-3rPwLKbq.21MazOckAnrvQQeBGbSpAVSymczm6hIIvwLRYXPC7~DonfQnkFyfSlhV6oyg8uOoXz1cVBoOh-3rPwLKbq.39156ooooo056ooooo056ooo0rr03ro0auauauauauauauauauauauau0880880801080108auauauauauauauauauauauauauauauauauauauauauauauauauauauauauo8o000-3rPwLKbq.51R4LtwOaZtVsJJtF0eosHQWr2g46PQrwFSISoRGelw28attivYj4N~kdOtn_hPJzmCmDjc7BzNk_MN6AvBiMPj7XIjG5QUxSRdqNSuFFv-3rPwLKbq.7fNv1_qqVIv_6lGthzKpjJ8GHWCPTCMUrtdZ_~95SSKS2vR~2HVEuRB13OpQcRPMDvI8E66Vx.8fNv1_qqVIv_6gdwN8LpIrDsFA8pTyPFp4XirKurefLJt9WqxiH1t3RF~eIjC~yA~2ZPiqQMy.9fNv1_qqVIv_6lGthzKpjJ8G6hX9A8gKW2Io2BoQxPnhVDHJzCj1_x~brqAdGa9Yi0PhTOFY2)
+	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.25.1-4.16.1CX7RstGS6iEaPYc8S0olUW1iiUW7kH3SraWfYTLWMwREJv2I4SbaG39j3HHy~dABxhtzacm4NEWUH32XUSJm~WFbAyLyQF0lF9GELfhoi-3rPwLKbq.2CX7RGze6j9xT0H9Vr2dPZnZixCsIRbYS7tvohbniRROfUUurFiFB~CNANel~obvj7cTnP_SUzyE8wMWMzpGF2iJtcKFer7fhBsoGcvcZo-3rPwLKbq.38156ooooo056ooooo056ooo0rr03ro0auauauauauauauauauauauau0880880801080108auauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauo8o000-3rPwLKbq.5e5~E84A1f3RP3JcClrM6bY2ZX3hqxPTOnXc5na9_34hBGlv8aWSA1AymUUTUFm~9MsD4lL81qNGjqDCJjBb2C0Xor282jl_amvMww8_3uHvn4HZtalLXU9yM~6eqCbh4W4AYNKm5G9wvkBe8nmMhs6qtC6-3rPwLKbq.75uk6x0b1CUDFzFRIAJ09~Uw5cnniYZgd2KAkQP49dz3YLlLkOy4qAPXVAouvcJ6EwNNTfoWUGDTXhBDS6NN4otte1xTfbHL9G_seoyiG8j.85uk6x0b1CUDFx9QNJLExNq82uESwXwoc_fi6uUJNQacFNfO5FK2RCN6kNPXEgfywP6S~7ZJJNIOIJJHs0VIUVGDRyIb3RyQUUm~nYyTRJx.95uk6x0b1CUDFzFRIAJ09~UvPXQUcZztrRw2jP8JtlmZVxk_Vb~qoHcXThyPK2CNoIykVqfBFUbP305hkooN6TbsvplueVidtuU5qiGt2pH)
+    - References:
+      - [YouTube](https://youtu.be/jUV8ujLMm8o?t=219)
+      - [YouTube](https://youtu.be/4Y5KDmEDOA4?t=784)
 - A (old)
 	- [Banana Drum](https://bananadrum.net/?a2=4-4.140.9.1-4.16.1ByaRaiEEeJn7qdggMwNtamVkJNapxvNfDnzwgA.2MI8I0cqd5eC4yBb7xx~bAS~aHgymv8ohvMhcf8.3auo8o000o6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMo6oMoKo0.557XMQvhJDXfqMPuUfBJiX3qwkA2En~soWfqmX6LVS93XpkcU2DqFwPv8.7fGVCmGekKbG8eI2PaZKDqqiP34Q4imNSjueP-4tTw.8p6GSrAGk8KHV8n_k8eMp__po_CW6HCs7zOSukJ.92d26pbY0vo70K0dmWetZaUPF_08m~W31v62At)
 - L-O
@@ -84,3 +87,11 @@
 - Seven (James Bond) (Earl)
 	- [Banana Drum](https://bananadrum.net/?t=James%20Bond%20Break%20(crescendo)&a2=4-4.140.10.1-4.16.0bkk6fbyKsgf2HvlFVxPUpFqNcE8XGJlfj4E4iUIDP-efRZc.18t6iWOk3d0P59BLhaMXmS8Y5KJFxn71ihk2SBYwDv-2S1RH3iOwt.2aZX1ruZxqp1o1fky_1EG5IZBHD53wHitwc_pjhacb-2S1RH3iOwt.3auo8o00000000000000000000000000000000000000000000000000088001100091888o8o8r56-2S1RH3iOwt.52~Uv5UQzXo83wWz~uGXn9n94ea8TL~E9OKS8qqymNgjrIJKl~ALRqm14zsMa-2S1RH3iOwt.7vN8pq_w2F8n54nTY3YPq7ErCAn89rjEVALuaCsa-2S1RH3iOwt.83xYotGuMoAOlOE5Ys7uy2xMvQ1IvdcijkCMkdwe-2S1RH3iOwt.9vNaZi6uOKWrRYLaAaHIO_ECLCeO2T7pEiesr7oC-2S1RH3iOwt)
 - Double O (James Bond) (Phil)
+- Pistol
+  - [Banana Drum](https://bananadrum.net/?a2=4-4.140.2.1-4.16.12s4zEmhkD.22s4zEmhkD.3uu00uu830o8r56.584anFZrCz6i.72s4zEmhkD.82s4zEmhkD.92s4zEmhkD)
+  - References:
+    - [WAC Workshop](https://youtu.be/IkRDmbuINUg?list=PLmRRs2PYet09Dx9PgRyjHHqJV72_Qbuio&t=852)
+    - [Samba Enredo recording session](https://youtu.be/-HACsN9ijQA?t=62)
+- Shrek
+  - References:
+    - [WAC Workshop](https://youtu.be/IkRDmbuINUg?list=PLmRRs2PYet09Dx9PgRyjHHqJV72_Qbuio&t=775)
