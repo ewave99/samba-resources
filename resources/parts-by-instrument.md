@@ -32,7 +32,7 @@
   - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/CallResponse10.html)
 - [Banana Drum](https://bananadrum.net/?a2=4-4.140.5.1-4.16.1uUi1VtJw8ICcLx-1aEcnHoy.2uUi1VtJw8ICcLx-1aEcnHoy.33r0000ro000038o838o80o088888000-BgLgkZ~.524AraE87dfIu6rl9xtr~5-1aEcnHoy.7uUi1VtJw8ICcLx-1aEcnHoy.8uUi1VtJw8ICcLx-1aEcnHoy.9uUi1VtJw8ICcLx-1aEcnHoy)
   - Reference: [LSS Bateria Weebly](https://lssbateria.weebly.com/CallResponse11.html)
-- [Banana Drum](https://bananadrum.net/?a2=4-4.140.6.1-4.16.12cEHvys3n.22cEHvys3n.3erNerNerNerN80auooauo0o056oo0000000000000000-6kyE.5_7ev7e8Jfkg1.72cEHvys3n.82cEHvys3n.92cEHvys3n)
+- [Banana Drum](https://bananadrum.net/?a2=4-4.140.6.1-4.16.12cEHvys3n.21L7EwZ9K.3erNerNerNerN80auooauo0o056oo0000000000000000-6kyE.5_7ev7e8Jfkg1.72cEHvys3n.82cEHvys3n.92cEHvys3n)
   - Reference: Fred
 
 ### Chamadas
